@@ -10,3 +10,5 @@
 https://hacktoberfest.digitalocean.com/
 
 ## All the best for **Hacktoberfest** :)
+
+Contributer: Savan Patel
