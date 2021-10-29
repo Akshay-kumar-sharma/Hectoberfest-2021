@@ -5,8 +5,11 @@
 <h1>Make your first Pull Request and earn a free T-shirt 👕👕 from GitHub! </h1>
 
 <b>What is Hacktoberfest?</b>
-<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.</p>
+<p>A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community. </p>
 
 https://hacktoberfest.digitalocean.com/
 
 ## All the best for **Hacktoberfest** :)
+
+# What is open source?
+<p>Open source refers to source code that is publicly accessible and allows anyone to inspect, modify or learn from it. Open source projects encourage collaboration and the freedom to use the software for any purpose you wish.</p>
